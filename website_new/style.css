@@ -818,11 +818,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
+    background-image: url("img/la-chouette-agence-banniere_small.jpg");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation_small.jpg");
 }
 
 @media (max-width: 1024px) {
@@ -1039,4 +1039,24 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.img-parapgraphe-large-4{
+    font-size: 13px;
+}
+
+.img-parapgraphe-large-2{
+    font-size: 15px;
+}
+
+.img-parapgraphe-large-1{
+    font-size: 18px;
+}
+
+.img-parapgraphe-large{
+    font-size: 22px;
+}
+
+strong{
+    font-weight: normal;
 }
