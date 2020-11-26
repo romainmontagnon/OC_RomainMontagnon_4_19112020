@@ -1041,19 +1041,19 @@ h4 {
     }
 }
 
-.img-parapgraphe-large-4{
+.img-parapgraphe-large-4, .parapgraphe-large-4{
     font-size: 13px;
 }
 
-.img-parapgraphe-large-2{
+.img-parapgraphe-large-2, .parapgraphe-large-2{
     font-size: 15px;
 }
 
-.img-parapgraphe-large-1{
+.img-parapgraphe-large-1, .parapgraphe-large-1{
     font-size: 18px;
 }
 
-.img-parapgraphe-large{
+.img-parapgraphe-large, .parapgraphe-large{
     font-size: 22px;
 }
 
