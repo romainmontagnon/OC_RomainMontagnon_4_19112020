@@ -1,0 +1,1 @@
+//Entrer ici les pages que l'on ne souhaitera pas indexer par la suite
