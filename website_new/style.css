@@ -1069,3 +1069,11 @@ address{
 address > i{
     padding-right: 16px;
 }
+
+.gray{
+    color: #424242;
+}
+
+.social-gray{
+    background-color: #424242;
+}
